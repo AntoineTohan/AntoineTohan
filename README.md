@@ -23,7 +23,7 @@ My goal offer a micro-service architecture for your Cloud applications :
 <img align="left" alt="Typescript" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1280px-Typescript_logo_2020.svg.png"/>
 <img align="left" alt="Javascript" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
 <img align="left" alt="Github" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Font_Awesome_5_brands_github.svg/langfr-1280px-Font_Awesome_5_brands_github.svg.png" />
-<img align="left" alt="Node.js" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/langfr-440px-Node.js_logo.svg.png" />
+<img align="left" alt="Node.js" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/langfr-440px-Node.js_logo.svg.png" />
 <img align="left" alt="Express.js" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" />
 <img align="left" alt="Meteor.js" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Meteor-logo.png" />
 <img align="left" alt="GraphQL" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1280px-GraphQL_Logo.svg.png" />
