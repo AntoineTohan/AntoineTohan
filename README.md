@@ -25,10 +25,10 @@ My goal offer a micro-service architecture for your Cloud applications :
 <img align="left" alt="Github" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Font_Awesome_5_brands_github.svg/langfr-1280px-Font_Awesome_5_brands_github.svg.png" />
 <img align="left" alt="Node.js" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/langfr-440px-Node.js_logo.svg.png" />
 <img align="left" alt="Express.js" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" />
-<img align="left" alt="Meteor.js" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Meteor-logo.png" />
+<img align="left" alt="Meteor.js" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Meteor-logo.png" />
 <img align="left" alt="GraphQL" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1280px-GraphQL_Logo.svg.png" />
 <img align="left" alt="Jest" width="50px" src="https://symbols.getvecta.com/stencil_85/20_jest-icon.aff64ab210.svg" />
-<img align="left" alt="Cypress" height="50px" src="https://www.cypress.io/static/33498b5f95008093f5f94467c61d20ab/c0bf4/cypress-logo.webp" />
+<img align="left" alt="Cypress" height="50px" src="https://icons-for-free.com/download-icon-cypress-1324440144114984250_512.png" />
 
 <br/>
 <br/>
