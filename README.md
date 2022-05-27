@@ -35,7 +35,7 @@ My goal offer a micro-service architecture for your Cloud applications :
 <br/>
 <br/>
 
-<img align="left" alt="Mongodb" height="50px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/45/MongoDB-Logo.svg/langfr-2880px-MongoDB-Logo.svg.png" />
+<img align="left" alt="Mongodb" height="40px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/45/MongoDB-Logo.svg/langfr-2880px-MongoDB-Logo.svg.png" />
 <img align="left" alt="PostGreSQL" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/langfr-1280px-Postgresql_elephant.svg.png" />
 <img align="left" alt="MySQL" height="50px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/langfr-2560px-MySQL.svg.png" />
 
@@ -44,7 +44,7 @@ My goal offer a micro-service architecture for your Cloud applications :
 <br/>
 <br/>
 
-<img align="left" alt="Docker" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/langfr-2880px-Docker_%28container_engine%29_logo.svg.png" />
+<img align="left" alt="Docker" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/langfr-2880px-Docker_%28container_engine%29_logo.svg.png" />
 <img align="left" alt="Kubernetes" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kubernetes_logo.svg/langfr-2880px-Kubernetes_logo.svg.png" />
 <img align="left" alt="Grafana" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Grafana_logo.png" />
 <img align="left" alt="Prometheus" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/langfr-1280px-Prometheus_software_logo.svg.png" />
