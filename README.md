@@ -1,16 +1,53 @@
-### Hi there 👋
+### Hi there, I'm Antoine 👋 
 
-<!--
-**AntoineTohan/AntoineTohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Cloud & DevOps Engineer and a Full Stack Developer
 
-Here are some ideas to get you started:
+- 🇫🇷 French
+- 🚤 23yo
+- 📝 I have an engineering degree ([RNCP13082]: https://www.francecompetences.fr/recherche/rncp/13082/) from EPSI school.
+- ❤️ Love Cloud and Open Source 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Full Stack JS / React developer at the base. But I quickly became passionate about the Cloud and DevOps.
+
+My goal offer a micro-service architecture for your Cloud applications : 
+
+- 📡 Transforming a monolithic application to a microservices application.
+- 🔓 CI/CD implementation with Jenkins, Github Actions or Azure to increase the frequency of your deployments.
+- ⬆️ Implementation of an IaaC architecture with Terraform to increase Time to Market
+- 🔧 With Docker and Kubernetes I create Cloud architecture responding to scalability and high availability issues.
+
+### Languages and tools
+
+
+<img align="left" alt="React" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/langfr-1920px-React-icon.svg.png" />
+<img align="left" alt="Typescript" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1280px-Typescript_logo_2020.svg.png"/>
+<img align="left" alt="Javascript" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
+<img align="left" alt="Github" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Font_Awesome_5_brands_github.svg/langfr-1280px-Font_Awesome_5_brands_github.svg.png" />
+<img align="left" alt="Node.js" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/langfr-440px-Node.js_logo.svg.png" />
+<img align="left" alt="Express.js" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" />
+<img align="left" alt="Meteor.js" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Meteor-logo.png" />
+<img align="left" alt="GraphQL" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1280px-GraphQL_Logo.svg.png" />
+<img align="left" alt="Jest" width="40px" src="https://symbols.getvecta.com/stencil_85/20_jest-icon.aff64ab210.svg" />
+<img align="left" alt="Cypress" width="40px" src="https://www.cypress.io/static/33498b5f95008093f5f94467c61d20ab/c0bf4/cypress-logo.webp" />
+
+<br/>
+<br/>
+
+<img align="left" alt="Mongodb" width="40px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/45/MongoDB-Logo.svg/langfr-2880px-MongoDB-Logo.svg.png" />
+<img align="left" alt="PostGreSQL" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/langfr-1280px-Postgresql_elephant.svg.png" />
+<img align="left" alt="MySQL" width="40px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/langfr-2560px-MySQL.svg.png" />
+
+<br/>
+<br/>
+
+<img align="left" alt="Docker" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/langfr-2880px-Docker_%28container_engine%29_logo.svg.png" />
+<img align="left" alt="Kubernetes" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kubernetes_logo.svg/langfr-2880px-Kubernetes_logo.svg.png" />
+<img align="left" alt="Grafana" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Grafana_logo.png" />
+<img align="left" alt="Prometheus" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/langfr-1280px-Prometheus_software_logo.svg.png" />
+
+<img align="left" alt="Azure" width="40px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b6/Microsoft-Azure.png/1280px-Microsoft-Azure.png" />
+<img align="left" alt="AWS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/langfr-2560px-Amazon_Web_Services_Logo.svg.png" />
+
+### Contact me: 
+
+[linkedin]: (https://www.linkedin.com/in/antoine-durand-epsi/)
