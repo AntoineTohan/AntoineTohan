@@ -48,6 +48,9 @@ My goal offer a micro-service architecture for your Cloud applications :
 <img align="left" alt="Azure" width="40px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b6/Microsoft-Azure.png/1280px-Microsoft-Azure.png" />
 <img align="left" alt="AWS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/langfr-2560px-Amazon_Web_Services_Logo.svg.png" />
 
+<br/>
+<br/>
+
 ### Contact me: 
 
 [linkedin]: (https://www.linkedin.com/in/antoine-durand-epsi/)
