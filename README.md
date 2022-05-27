@@ -18,7 +18,7 @@ My goal offer a micro-service architecture for your Cloud applications :
 
 ### Languages and tools
 
-
+ #### dev
 <img align="left" alt="React" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/langfr-1920px-React-icon.svg.png" />
 <img align="left" alt="Typescript" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1280px-Typescript_logo_2020.svg.png"/>
 <img align="left" alt="Javascript" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
@@ -35,6 +35,7 @@ My goal offer a micro-service architecture for your Cloud applications :
 <br/>
 <br/>
 
+ #### db
 <img align="left" alt="Mongodb" height="40px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/45/MongoDB-Logo.svg/langfr-2880px-MongoDB-Logo.svg.png" />
 <img align="left" alt="PostGreSQL" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/langfr-1280px-Postgresql_elephant.svg.png" />
 <img align="left" alt="MySQL" height="50px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/langfr-2560px-MySQL.svg.png" />
@@ -44,6 +45,7 @@ My goal offer a micro-service architecture for your Cloud applications :
 <br/>
 <br/>
 
+ #### ops
 <img align="left" alt="Docker" height="40px" src="https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-white.png" />
 <img align="left" alt="Kubernetes" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kubernetes_logo.svg/langfr-2880px-Kubernetes_logo.svg.png" />
 <img align="left" alt="Grafana" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Grafana_logo.png" />
@@ -54,6 +56,7 @@ My goal offer a micro-service architecture for your Cloud applications :
 <br/>
 <br/>
 
+ #### cloud provider
 <img align="left" alt="Azure" width="50px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b6/Microsoft-Azure.png/1280px-Microsoft-Azure.png" />
 <img align="left" alt="AWS" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/langfr-2560px-Amazon_Web_Services_Logo.svg.png" />
 
