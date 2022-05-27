@@ -65,4 +65,5 @@ My goal offer a micro-service architecture for your Cloud applications :
 
 ### Contact me: 
 
-[linkedin]: (https://www.linkedin.com/in/antoine-durand-epsi/)
+
+- [Linkedin](https://www.linkedin.com/in/antoine-durand-epsi/) 
