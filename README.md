@@ -13,7 +13,7 @@ My goal offer a micro-service architecture for your Cloud applications :
 
 - 📡 Transforming a monolithic application to a microservices application.
 - 🔓 CI/CD implementation with Jenkins, Github Actions or Azure to increase the frequency of your deployments.
-- ⬆️ Implementation of an IaaC architecture with Terraform to increase Time to Market
+- ⬆️ Implementation of an IaaC architecture with Terraform to increase Time to Market.
 - 🔧 With Docker and Kubernetes I create Cloud architecture responding to scalability and high availability issues.
 
 ### Languages and tools
