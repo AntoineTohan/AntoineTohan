@@ -7,14 +7,15 @@
 - 📝 I have an engineering degree ([RNCP13082]: https://www.francecompetences.fr/recherche/rncp/13082/) from EPSI school.
 - ❤️ Love Cloud and Open Source 
 
-I am a Full Stack JS / React developer at the base. But I quickly became passionate about the Cloud and DevOps.
+I am a Full Stack JS & TS / React developer originally. But I quickly became passionate about the Cloud and DevOps.
 
-My goal offer a micro-service architecture for your Cloud applications : 
+My goal : **offer a micro-service architecture for your Cloud applications**
 
 - 📡 Transforming a monolithic application to a microservices application.
 - 🔓 CI/CD implementation with Jenkins, Github Actions or Azure to increase the frequency of your deployments.
 - ⬆️ Implementation of an IaaC architecture with Terraform to increase Time to Market.
 - 🔧 With Docker and Kubernetes I create Cloud architecture responding to scalability and high availability issues.
+- 🚦 Network flow management in the Cloud. Monitoring your Cloud architecture with Grafana, Azure Dashboard, Prometheus, Loki and Promtail. 
 
 ### Languages and tools
 
