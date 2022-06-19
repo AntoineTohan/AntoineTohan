@@ -4,7 +4,7 @@
 
 - 🇫🇷 French
 - 🚤 23yo
-- 📝 I have an engineering degree ([RNCP13082]: https://www.francecompetences.fr/recherche/rncp/13082/) from EPSI school.
+- 📝 I have an engineering degree ([RNCP35584]: (https://www.francecompetences.fr/recherche/rncp/35584/) from EPSI school.
 - ❤️ Love Cloud and Open Source 
 
 I am a Full Stack JS & TS / React developer originally. But I quickly became passionate about the Cloud and DevOps.
