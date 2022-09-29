@@ -17,46 +17,69 @@ My goal : **offer a micro-service architecture for your Cloud applications**
 - 🔧 With Docker and Kubernetes I create Cloud architecture responding to scalability and high availability issues.
 - 🚦 Network flow management in the Cloud. Monitoring your Cloud architecture with Grafana, Azure Dashboard, Prometheus, Loki and Promtail. 
 
-### Languages and tools
+### Technology used
 
- #### dev
-<img align="left" alt="React" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/langfr-1920px-React-icon.svg.png" />
-<img align="left" alt="Typescript" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1280px-Typescript_logo_2020.svg.png"/>
-<img align="left" alt="Javascript" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
-<img align="left" alt="Github" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Font_Awesome_5_brands_github.svg/langfr-1280px-Font_Awesome_5_brands_github.svg.png" />
-<img align="left" alt="Node.js" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/langfr-440px-Node.js_logo.svg.png" />
-<img align="left" alt="Express.js" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" />
-<img align="left" alt="Meteor.js" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Meteor-logo.png" />
-<img align="left" alt="GraphQL" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1280px-GraphQL_Logo.svg.png" />
-<img align="left" alt="Jest" width="50px" src="https://symbols.getvecta.com/stencil_85/20_jest-icon.aff64ab210.svg" />
-<img align="left" alt="Cypress" height="50px" src="https://icons-for-free.com/download-icon-cypress-1324440144114984250_512.png" />
+**Languages**
 
-<br/>
-<br/>
-<br/>
-<br/>
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-java-000000?style=flat&logo=java)
+![C#](https://img.shields.io/badge/-csharp-000000?style=flat&logo=csharp)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
 
- #### db
-<img align="left" alt="Mongodb" height="40px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/45/MongoDB-Logo.svg/langfr-2880px-MongoDB-Logo.svg.png" />
-<img align="left" alt="PostGreSQL" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/langfr-1280px-Postgresql_elephant.svg.png" />
-<img align="left" alt="MySQL" height="50px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/langfr-2560px-MySQL.svg.png" />
+**Frontend**
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![Blaze](https://img.shields.io/badge/-Blaze-000000?style=flat&logo=blaze)
+![Jquery](https://img.shields.io/badge/-Jquery-000000?style=flat&logo=jquery)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
+![Material](https://img.shields.io/badge/-Material-000000?style=flat&logo=material-ui)
+![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular)
 
-<br/>
-<br/>
-<br/>
-<br/>
 
- #### ops
-<img align="left" alt="Docker" height="40px" src="https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-white.png" />
-<img align="left" alt="Kubernetes" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kubernetes_logo.svg/langfr-2880px-Kubernetes_logo.svg.png" />
-<img align="left" alt="Grafana" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Grafana_logo.png" />
-<img align="left" alt="Prometheus" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/langfr-1280px-Prometheus_software_logo.svg.png" />
+**Backend**
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
+![Meteor](https://img.shields.io/badge/-Meteor-000000?style=flat&logo=meteor)
+![Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=Spring)
+![GraphQL](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=GraphQL)
 
-**Cloud provider**
 
-<img align="left" alt="Azure" width="50px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b6/Microsoft-Azure.png/1280px-Microsoft-Azure.png" />
-<img align="left" alt="AWS" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/langfr-2560px-Amazon_Web_Services_Logo.svg.png" />
+**DB**
+![MongoDB](https://img.shields.io/badge/-Mongodb-000000?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-Postgresql-000000?style=flat&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-mysql-000000?style=flat&logo=mysql)
 
+**Tests**
+![Jest](https://img.shields.io/badge/-Jest-000000?style=flat&logo=Jest)
+![Cypress](https://img.shields.io/badge/-Cypress-000000?style=flat&logo=Cypress)
+
+**Architecture**
+
+![Microservice](https://img.shields.io/badge/-Microservice-000000?style=flat&logo=microservice)
+![Serverless](https://img.shields.io/badge/-Serverless-000000?style=flat&logo=serverless)
+![PWA](https://img.shields.io/badge/-Progressive%20Web%20App-000000?style=flat&logo=pwa)
+
+
+**Ops**
+
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=kubernetes)
+![Grafana](https://img.shields.io/badge/-Grafana-000000?style=flat&logo=Grafana)
+![Prometheus](https://img.shields.io/badge/-Prometheus-000000?style=flat&logo=Prometheus)
+
+
+**Cloud**
+
+![Azure](https://img.shields.io/badge/-Microsoft%20Azure-000000?style=flat&logo=microsoft-azure)
+![AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-000000?style=flat&logo=amazon-aws)
+
+
+**CI/CD**
+
+![GithubActions](https://img.shields.io/badge/-Github%20Actions-000000?style=flat&logo=github-actions)
+![AzureDevops](https://img.shields.io/badge/-AzureDevops-000000?style=flat&logo=azure-devops)
+![Jenkins](https://img.shields.io/badge/-Jenkins-000000?style=flat&logo=jenkins)
 
 
 **GitHub Stats**
