@@ -43,6 +43,7 @@ My goal : **offer a micro-service architecture for your Cloud applications**
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
 ![Meteor](https://img.shields.io/badge/-Meteor-000000?style=flat&logo=meteor)
+![Nestjs](https://img.shields.io/badge/-nestjs-000000?style=flat&logo=nestjs)
 ![Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=Spring)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=GraphQL)
 
@@ -69,8 +70,11 @@ My goal : **offer a micro-service architecture for your Cloud applications**
 
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=kubernetes)
+![Terraform](https://img.shields.io/badge/-Terraform-000000?style=flat&logo=Terraform)
 ![Grafana](https://img.shields.io/badge/-Grafana-000000?style=flat&logo=Grafana)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-000000?style=flat&logo=Prometheus)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=Linux)
+![Bash](https://img.shields.io/badge/-Bash-000000?style=flat&logo=Bash)
 
 
 **Cloud**
