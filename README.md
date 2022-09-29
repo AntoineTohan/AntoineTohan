@@ -64,6 +64,13 @@ My goal : **offer a micro-service architecture for your Cloud applications**
 <br/>
 <br/>
 
+**GitHub Stats**
+
+<a href="https://github.com/AntoineTohan/AntoineTohan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AntoineTohan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Funkyremi GitHub Stats" />
+</a>
+
+
 ### Contact me: 
 
 
