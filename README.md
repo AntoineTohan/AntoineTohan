@@ -20,7 +20,7 @@ My goal : **offer a micro-service architecture for your Cloud applications**
 ### Languages and tools
 
  #### dev
-<img align="left" alt="React" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/langfr-1920px-React-icon.svg.png" />
+<img align="left" alt="React" style="background-color:white;" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/langfr-1920px-React-icon.svg.png" />
 <img align="left" alt="Typescript" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1280px-Typescript_logo_2020.svg.png"/>
 <img align="left" alt="Javascript" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
 <img align="left" alt="Github" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Font_Awesome_5_brands_github.svg/langfr-1280px-Font_Awesome_5_brands_github.svg.png" />
