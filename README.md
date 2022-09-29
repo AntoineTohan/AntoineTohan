@@ -30,6 +30,7 @@ My goal : **offer a micro-service architecture for your Cloud applications**
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
 
 **Frontend**
+
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![Blaze](https://img.shields.io/badge/-Blaze-000000?style=flat&logo=blaze)
 ![Jquery](https://img.shields.io/badge/-Jquery-000000?style=flat&logo=jquery)
@@ -39,6 +40,7 @@ My goal : **offer a micro-service architecture for your Cloud applications**
 
 
 **Backend**
+
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
 ![Meteor](https://img.shields.io/badge/-Meteor-000000?style=flat&logo=meteor)
 ![Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=Spring)
@@ -46,11 +48,13 @@ My goal : **offer a micro-service architecture for your Cloud applications**
 
 
 **DB**
+
 ![MongoDB](https://img.shields.io/badge/-Mongodb-000000?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-Postgresql-000000?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-mysql-000000?style=flat&logo=mysql)
 
 **Tests**
+
 ![Jest](https://img.shields.io/badge/-Jest-000000?style=flat&logo=Jest)
 ![Cypress](https://img.shields.io/badge/-Cypress-000000?style=flat&logo=Cypress)
 
