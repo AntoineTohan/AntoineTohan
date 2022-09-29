@@ -52,26 +52,20 @@ My goal : **offer a micro-service architecture for your Cloud applications**
 <img align="left" alt="Grafana" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Grafana_logo.png" />
 <img align="left" alt="Prometheus" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/langfr-1280px-Prometheus_software_logo.svg.png" />
 
-<br/>
-<br/>
-<br/>
-<br/>
+**Cloud provider**
 
- #### cloud provider
 <img align="left" alt="Azure" width="50px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b6/Microsoft-Azure.png/1280px-Microsoft-Azure.png" />
 <img align="left" alt="AWS" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/langfr-2560px-Amazon_Web_Services_Logo.svg.png" />
 
-<br/>
-<br/>
+
 
 **GitHub Stats**
 
 <a href="https://github.com/AntoineTohan/AntoineTohan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AntoineTohan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Funkyremi GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AntoineTohan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="AntoineTohan GitHub Stats" />
 </a>
 
 
 ### Contact me: 
-
 
 - [Linkedin](https://www.linkedin.com/in/antoine-durand-epsi/) 
