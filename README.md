@@ -1,6 +1,6 @@
 ### Hi there, I'm Antoine 👋 
 
-## I'm a Lead Tech - Cloud Infrastructure DevOps & Fullstack JS / TS
+## I'm a Lead Tech - Cloud Infrastructure Architect & Fullstack JS / TS
 
 - 🇫🇷 French
 - 🚤 27yo
