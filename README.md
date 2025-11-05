@@ -3,19 +3,21 @@
 ## I'm a Lead Tech - Cloud Infrastructure DevOps & Fullstack JS / TS
 
 - 🇫🇷 French
-- 🚤 26yo
+- 🚤 27yo
 - 📝 I have an engineering degree ([RNCP35584]: (https://www.francecompetences.fr/recherche/rncp/35584/) from EPSI school.
 - ❤️ Love Cloud and Open Source 
 
-I am a Full Stack JS & TS / React developer originally. But I quickly became passionate about the Cloud and DevOps.
+Originally a Full Stack JS/TS & React developer, I quickly found a deep interest in Cloud architecture and DevOps culture. I now combine those skill sets to help teams deliver performant, scalable, and maintainable platforms.
 
-My goal : **offer a micro-service architecture for your Cloud applications**
+My goal is simple: Build resilient and scalable cloud apps with clean architectures and efficient DevOps practices.
 
-- 📡 Transforming a monolithic application to a microservices application.
-- 🔓 CI/CD implementation with Jenkins, Github Actions or Azure to increase the frequency of your deployments.
-- ⬆️ Implementation of an IaaC architecture with Terraform to increase Time to Market.
-- 🔧 With Docker and Kubernetes I create Cloud architecture responding to scalability and high availability issues.
-- 🚦 Network flow management in the Cloud. Monitoring your Cloud architecture with Grafana, Azure Dashboard, Prometheus, Loki and Promtail. 
+- 👥 Lead a team of developers (JS/TS, Python, Go) to build and evolve a cloud-based audiovisual application
+- 🧩 Design and maintain microservices architectures with a strong focus on scalability and high availability
+- ⚙️ CI/CD pipelines (GitHub Actions, Azure) to speed up and secure delivery
+- ☁️ IaaC with Terraform to deploy and manage infrastructure efficiently
+- 🐳 Containers & Orchestration with Docker and Kubernetes on Azure
+- 📊 Monitoring with Grafana, Prometheus, Loki, Azure Dashboards...
+- 📡 Cloud video processing optimization: design strategies to solve performance bottlenecks with smart scaling & load balancing
 
 ### Technology used
 
